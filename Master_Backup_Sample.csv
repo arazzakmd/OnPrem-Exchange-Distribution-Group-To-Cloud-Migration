@@ -1,0 +1,4 @@
+DisplayName,GroupAlias,PrimarySmtpAddress,Members,ManagedBy,RequireSenderAuthenticationEnabled
+IT Support,itsupport,itsupport@yourdomain.com,user1@yourdomain.com;user2@yourdomain.com,admin@yourdomain.com,True
+HR Department,hrdept,hr@yourdomain.com,user3@yourdomain.com;user4@yourdomain.com,manager@yourdomain.com,False
+Finance Team,financeteam,finance@yourdomain.com,user5@yourdomain.com,admin@yourdomain.com,True
